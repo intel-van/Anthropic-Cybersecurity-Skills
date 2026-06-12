@@ -1,0 +1,9 @@
+# GitHub Pages 配置
+title: Anthropic Cybersecurity Skills
+description: 754 structured cybersecurity skills for AI agents, mapped to 5 industry frameworks
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true

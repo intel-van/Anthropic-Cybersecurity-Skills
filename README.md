@@ -356,6 +356,16 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 🐛 [Issues](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/issues) — Bug reports and feature requests
 🔒 [Security Policy](SECURITY.md) — Responsible disclosure process (48-hour acknowledgment) 
 
+## Further Reading
+
+| Document | Description |
+|----------|-------------|
+| [ROADMAP.md](ROADMAP.md) | **Agent Beginner Learning Roadmap** — structured path for learning cybersecurity skills in the AI era |
+| [ATTACK_COVERAGE.md](ATTACK_COVERAGE.md) | MITRE ATT&CK coverage map — 291 techniques across all 14 Enterprise tactics |
+| [mappings/README.md](mappings/README.md) | ATT&CK Navigator layer file and coverage statistics |
+
+---
+
 ## Citation
 
 If you use this project in research or publications:
